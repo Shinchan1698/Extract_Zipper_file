@@ -98,17 +98,17 @@
   #container{
     overflow: auto;
     font-family: CASTELLAR;
-    margin-top: 60px;
-    margin-left: 300px;
     display: none;
     border: 1px solid aqua;
     width: 60vw;
     height: 60vh;
     padding: 40px;
     color: black;
+    margin-top: 50px;
   }
 
   #download{
+    overflow: auto;
     border-radius: 6px;
     border-color: rgb(8, 128, 150);
     background-color: rgb(8, 152, 209);
@@ -119,6 +119,5 @@
     color: white;
     font-size: 20px;
     text-align: center;
-    margin-left: 300px;
     margin-top: 15px;
 }
